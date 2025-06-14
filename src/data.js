@@ -2,7 +2,7 @@ export default [
     {
         id: 1,
         img: {
-            src: "/src/assets/images/mount-fuji.jpg",
+            src: "../src/assets/images/mount-fuji.jpg",
             alt: "Mount Fuji Image"
         },
         title: "Mount Fuji",
@@ -14,7 +14,7 @@ export default [
     {
         id: 2,
         img: {
-            src: "/src/assets/images/opera-house.jpg",
+            src: "../src/assets/images/opera-house.jpg",
             alt: "Sydney Opera House Image"
         },
         title: "Sydney Opera House",
@@ -26,7 +26,7 @@ export default [
     {
         id: 3,
         img: {
-            src: "/src/assets/images/norway-image.jpg",
+            src: "../src/assets/images/norway-image.jpg",
             alt: "Geirangerfjord"
         },
         title: "Geirangerfjord",
@@ -38,7 +38,7 @@ export default [
     {
         id: 4,
         img: {
-            src: "/src/assets/images/taj-mahal.jpg",
+            src: "../src/assets/images/taj-mahal.jpg",
             alt: "Taj Mahal Image"
         },
         title: "Taj Mahal",
